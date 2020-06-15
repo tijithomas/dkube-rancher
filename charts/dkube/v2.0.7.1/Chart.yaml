@@ -3,4 +3,4 @@ appVersion: "1.0"
 description: A Helm chart for dkube installation
 name: dkube-installer
 version: 2.0.7.1
-icon: https://raw.githubusercontent.com/harshalkwagh/sample-charts/dkube-installer/charts/test-chart/catalogIcon-dkube.png
+icon: https://raw.githubusercontent.com/mak-454/dkube-rancher/charts/dkube/icon.png
